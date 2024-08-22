@@ -1,0 +1,90 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.services {
+    
+    
+    margin: 50px auto;
+    flex-wrap: wrap;
+    background-color: #f4f4f4;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.services h2 {
+    color: #333;
+}
+
+
+
+.service {
+    just\
+    
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px ;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+}
+.service img {
+    width: 300px;
+    border-radius: 8px;
+    margin-bottom: 13px;
+}
+.service {
+    color: #555;
+    font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+.contact {
+    text-align: center;
+    padding: 60px 20px;
+}
+.contact h2 {
+    color: #333;
+}
+.contact p {
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: background-color 0.6s ease;
+}
+
+.button:hover {
+    background-color: #145986;
+}
+
+footer{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+    font-size: 1.2em;
+}
+
